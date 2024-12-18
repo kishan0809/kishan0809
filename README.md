@@ -13,11 +13,16 @@
 
 - 🔭 I’m currently working on [Kisna Diamonds](https://kisna-prod-kisna-web.xzmowh.easypanel.host/)
 
+- 👯 I’m looking to collaborate on [My Portfolio](https://kishansingh.vercel.app/)
+
+- 📄 Know about my experiences [https://kishansingh.vercel.app/Kishan_Singh.pdf](https://kishansingh.vercel.app/Kishan_Singh.pdf)
+  
 - 🌱 I’m currently learning **System design**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ted.kishan@gmail.com**
+
 
 - ⚡ Fun fact **i know nothing..**
 
