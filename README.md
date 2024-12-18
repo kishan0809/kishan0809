@@ -143,10 +143,14 @@
 </a>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishan0809&show_icons=true&locale=en&layout=compact" alt="kishan0809" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishan0809&show_icons=true&locale=en" alt="kishan0809" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kishan0809&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kishan0809&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan0809&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan0809&" alt="kishan0809" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kishan0809&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kishan0809&icon=0&color=9)](https://visitcount.itsvg.in)
