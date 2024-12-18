@@ -15,15 +15,9 @@
 
 - 🌱 I’m currently learning **System design**
 
-        - 👯 I’m looking to collaborate on [My Portfolio](https://kishansingh.vercel.app/)
-
-        - 👨‍💻 All of my projects are available at [https://kishansingh.vercel.app/](https://kishansingh.vercel.app/)
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ted.kishan@gmail.com**
-
-        - 📄 Know about my experiences [https://kishansingh.vercel.app/Kishan_Singh.pdf](https://kishansingh.vercel.app/Kishan_Singh.pdf)
 
 - ⚡ Fun fact **i know nothing..**
 
