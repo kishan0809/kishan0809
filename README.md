@@ -1,7 +1,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=kishan0809&label=Profile%20views&color=0e75b6&style=flat" alt="kishan0809" />
+[![](https://visitcount.itsvg.in/api?id=kishan0809&icon=0&color=9)](https://visitcount.itsvg.in)
 </p>
 
 <p align="left">
@@ -143,14 +143,11 @@
 </a>
 </p>
 
+---
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kishan0809&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kishan0809&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan0809&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kishan0809&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kishan0809&icon=0&color=9)](https://visitcount.itsvg.in)
